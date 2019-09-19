@@ -4,7 +4,7 @@ Cellular automation programmed in python. The game is governed by a set of simpl
 
 ## `test_gameoflife_glider.py`
 Opens an animated simulation of universe with a pattern of live cells. The universe is evolved by applying the rules below.
-Algorithm relies on the use of initial class called `conway.py`, and is required to run the simulation.
+Note: Algorithm relies on the use of initial class called `conway.py`, and is required to run the simulation.
 
 ### The Rules
 ```
