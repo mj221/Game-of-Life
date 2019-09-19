@@ -17,7 +17,10 @@ Note: Algorithm relies on the use of initial class called `conway.py`, and is re
 ### Usage Description
 Initial patterns can be changed from `blinker`, `glider`or `glider gun` using `life.insertBlinker((0,0))`, `life.insertGlider((0,0))`, `life.insertGliderGun((0,0))` 
 Else, cell states can be imported via `input.txt` directly. See example file above.
-
+ 
+  
+   
+   
 
 # Langton's Ant
 Cellular automation that is Turing complete and displays chaotic behaviour. A single ant roams a space consisting of 64x64 space on a set rule.
